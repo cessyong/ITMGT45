@@ -1,0 +1,75 @@
+.logo {
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Cooper Hewitt Book";
+}
+
+a {
+  color: ghostwhite;
+  font-family: "Cooper Hewitt Book";
+  font-weight: bold;
+}
+
+body {
+    color: white;
+    font-family: "Cooper Hewitt Book";
+    background-color: #772A1A;
+    text-align: center;
+}
+
+.navigation-bar {
+    font-family: "Cooper Hewitt Book";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: ghostwhite;
+    color: #772A1A;
+    text-align: right;
+    font-size: 15px;
+}
+
+h2 {
+    color: white;
+    font-family: "Cooper Hewitt Book";
+    background-color: #772A1A;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    font-family: "Cooper Hewitt Book";
+    background-color: #772A1A;
+    text-align: center;
+}
+
+td {
+    font-family: "Cooper Hewitt Book";
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+th {
+    font-family: "Cooper Hewitt Book";
+    padding-left: 50px;
+    padding-right: 50px
+}
+
+.pic {
+    height: 1000px;
+}
